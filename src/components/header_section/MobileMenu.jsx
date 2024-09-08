@@ -51,7 +51,7 @@ function MobileMenu({ onClose }) {
       </div>
 
       <PrimaryButton childern="Sign up" onClick={() => console.log("Sign up clicked")} className={"mt-[30px]"} />
-      <SecondaryBtn childern="Sign up" onClick={() => console.log("Sign in clicked")} className={"mt-[10px]"} />
+      <SecondaryBtn childern="Log in" onClick={() => console.log("Sign in clicked")} className={"mt-[10px]"} />
     </div>
   );
 }
