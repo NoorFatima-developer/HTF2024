@@ -31,9 +31,9 @@ function Header() {
     {/* Desktop menu */}
     <div className="sm:flex sm:items-center hidden gap-3 ">
 
-      <SecondaryBtn onClick={()=>{console.log("Sign in Clicked");}} className={"w-[95px] py-2 px-3"} childern='Log in' />
+      <SecondaryBtn onClick={()=>{console.log("Sign in Clicked");}} className={"w-[130px] mx-[0px] rounded-[8px] px-[16px] py-[10px] text-[16px] leading-[24px] font-[600] border-[1px] border-slate-600 text-slate-800 opacity-90 hover:opacity-100 bg-transparent"} childern='Log in' />
       <PrimaryButton onClick={()=>{console.log("Sign up Clicked");
-      }  } className={"w-[120px]  text-xl ml-0 mr-0 py-2 px-3"} childern='Sign up'/>
+      }  } className={"w-[110px] mx-[0px] rounded-[8px] px-[18px] py-[10px] text-[16px] leading-[24px] font-[600] text-white bg-[#7F56D9] hover:bg-[#6d45c3] "} childern='Sign up'/>
 
     </div>
 
