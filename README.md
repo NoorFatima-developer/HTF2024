@@ -37,7 +37,7 @@ Follow these steps to get the project running locally.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/untitled-ui.git
+   git clone https://github.com/saifullah72437/Untitled-UI.git
    ```
 
 2. Navigate to the project directory:
